@@ -1,4 +1,3 @@
---this isn't a test
 select as_of_yyyyqq,
   owner_role_vp_team as sales_region,
   owner_role_dir_team as sales_subregion,
